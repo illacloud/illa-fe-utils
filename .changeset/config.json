@@ -1,0 +1,10 @@
+{
+  "$schema": "https://unpkg.com/@changesets/config@2.0.0/schema.json",
+  "changelog": ["@changesets/cli/changelog",{"repo": "illacloud/illa-fe-utils"}],
+  "commit": false,
+  "fixed": [],
+  "linked": [],
+  "baseBranch": "main",
+  "access": "public",
+  "updateInternalDependencies": "patch"
+}

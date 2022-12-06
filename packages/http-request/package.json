@@ -1,6 +1,6 @@
 {
   "name": "@illa-fe-utils/http-request",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
