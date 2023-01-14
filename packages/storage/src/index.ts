@@ -39,7 +39,7 @@ export default class ILLAStorage {
     let data: StorageDataShape = {
       value: value,
       time: Date.now(),
-      expire: Date.now() + expire * 60 * 1000,
+      expire,
     }
 
     try {
